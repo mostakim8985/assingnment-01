@@ -35,6 +35,10 @@ header ul li a {
     font-weight: 500;
 
 }
+header ul li a:hover{
+    color: #0a251ba9;
+    border-bottom: 1px solid #0a251ba9;
+}
 
 header .hd-button {
     padding: 12px 16px;
