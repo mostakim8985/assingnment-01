@@ -48,7 +48,10 @@ header .hd-button {
     cursor: pointer;
 
 }
-
+header .hd-button:hover{
+    background-color: #0a251b;
+    color: white;
+}
 .fst-container {
     width: 100vw;
     height: 674px;
@@ -129,6 +132,10 @@ header .hd-button {
     text-transform: capitalize;
     cursor: pointer;
 }
+.buttons-fst .hero-buttonfst:hover{
+    background-color: #0a251b;
+    color: white;
+}
 
 .buttons-fst .hero-buttonscnd {
     padding: 12px 16px;
@@ -146,7 +153,10 @@ header .hd-button {
     text-transform: capitalize;
     cursor: pointer;
 }
-
+.buttons-fst .hero-buttonscnd:hover{
+    background-color: #308868;
+    color: white;
+}
 .scnd-container {
     text-align: center;
 }
@@ -293,7 +303,13 @@ header .hd-button {
     font-weight: 700px;
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.25);
     cursor: pointer;
+
 }
+.frth-container .button-box .frth-con-button:hover{
+    background-color: #0a251b;
+    color: white;
+}
+
 
 .frth-container .scnd {
     color: #627382;
